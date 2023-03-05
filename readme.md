@@ -7,7 +7,7 @@ You will need the following software to run the task manager:
  - [Python 3](https://www.python.org/downloads/)
 
 #### Installation
-To get started with the financial calculators, follow these steps:
+To get started with the task manager, follow these steps:
 
 1. **Clone** the repository:
 
